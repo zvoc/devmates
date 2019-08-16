@@ -1,0 +1,7 @@
+[package]
+name = "devmates_tasks"
+version = "0.1.0"
+authors = ["Vinko Kašljević <vinko.kasljevic@fer.hr>"]
+edition = "2018"
+
+[dependencies]
