@@ -4,4 +4,12 @@ version = "0.1.0"
 authors = ["Vinko Kašljević <vinko.kasljevic@fer.hr>"]
 edition = "2018"
 
+[[bin]]
+name = "main"
+path = "src/main.rs"
+
+[[bin]]
+name = "task_19_08_16"
+path = "src/task_19_08_16.rs"
+
 [dependencies]
