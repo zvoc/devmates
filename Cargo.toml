@@ -5,15 +5,15 @@ authors = ["Vinko Kašljević <vinko.kasljevic@fer.hr>"]
 edition = "2018"
 
 [[bin]]
-name = "task_19_08_16"
-path = "src/task_19_08_16.rs"
+name = "task_2019_08_16"
+path = "src/task_2019_08_16.rs"
 
 [[bin]]
-name = "task_19_08_19"
-path = "src/task_19_08_19.rs"
+name = "task_2019_08_19"
+path = "src/task_2019_08_19.rs"
 
 [[bin]]
-name = "task_19_08_20"
-path = "src/task_19_08_20.rs"
+name = "task_2019_08_20"
+path = "src/task_2019_08_20.rs"
 
 [dependencies]
