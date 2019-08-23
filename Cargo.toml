@@ -24,4 +24,8 @@ path = "src/task_2019_08_21.rs"
 name = "task_2019_08_22"
 path = "src/task_2019_08_22.rs"
 
+[[bin]]
+name = "task_2019_08_23"
+path = "src/task_2019_08_23.rs"
+
 [dependencies]
