@@ -60,4 +60,8 @@ path = "src/task_2019_09_03.rs"
 name = "task_2019_09_04"
 path = "src/task_2019_09_04.rs"
 
+[[bin]]
+name = "task_2019_09_05"
+path = "src/task_2019_09_05.rs"
+
 [dependencies]
